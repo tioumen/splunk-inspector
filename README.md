@@ -1,6 +1,7 @@
-# This Docker Image helps ainms to validate application before getting them in production. Only syntaxe lint... and some other features brought by AppInspect Splunk CLI tool.
+# This Docker Image helps aims to validate application before getting them in production.
+## Only syntaxe lint... and some other features brought by AppInspect Splunk CLI tool.
 
-[Overview of Splunk AppInspect](http://dev.splunk.com/view/appinspect/SP-CAAAE9U)
+[More details about Splunk AppInspect](http://dev.splunk.com/view/appinspect/SP-CAAAE9U)
 
 > Splunk AppInspect evaluates your Splunk app against a set of Splunk-defined
 criteria so that you can be assured of its quality and robustness. AppInspect
