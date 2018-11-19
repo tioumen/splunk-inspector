@@ -17,7 +17,6 @@ http://dev.splunk.com/goto/appinspectdownload
 
 ```
 docker pull tioumen/splunk-appinspect:latest
-
 ```
 
 Run next command in the folder, that contains Splunk applications
