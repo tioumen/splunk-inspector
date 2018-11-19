@@ -9,14 +9,8 @@ details any missed criteria. AppInspect ensures that your Splunk app is ready
 for production use on your own Splunk Enterprise instance, or for submission
 to Splunkbase as either a standard or certified app.
 
-## Version
-
-# Version available on November 19th 2019 -> 1.6.0
+## Version available on November 19th 2019 -> 1.6.0
 http://dev.splunk.com/goto/appinspectdownload
-
-```
-tioumen/splunk-appinspect:1.6.0
-```
 
 ## How to use
 
